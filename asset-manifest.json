@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jeu-Memoire/static/css/main.11d79a79.css",
+    "main.js": "/Jeu-Memoire/static/js/main.c7edea64.js",
+    "static/js/453.0ed4890a.chunk.js": "/Jeu-Memoire/static/js/453.0ed4890a.chunk.js",
+    "index.html": "/Jeu-Memoire/index.html",
+    "main.11d79a79.css.map": "/Jeu-Memoire/static/css/main.11d79a79.css.map",
+    "main.c7edea64.js.map": "/Jeu-Memoire/static/js/main.c7edea64.js.map",
+    "453.0ed4890a.chunk.js.map": "/Jeu-Memoire/static/js/453.0ed4890a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d79a79.css",
+    "static/js/main.c7edea64.js"
+  ]
+}
