@@ -1,0 +1,15 @@
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to bottom, #dbf7db, #c0f4c7); /* makes a gradient */
+
+  font-family: "Manrope", sans-serif; /* changing default font */
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
